@@ -1,6 +1,6 @@
 # MolVR
 
-MolVR is a Python-based application designed to visualize molecular structures in 3D, offering an immersive experience by supporting Head-Mounted Display (HMD) technology. It allows users to load molecular data from `.mol` files and view them in a virtual reality environment, making it a powerful tool for education, research, and development in fields like chemistry, biochemistry, and molecular biology.
+MolVR is a Python-based application designed to visualise molecular structures in 3D, offering an immersive experience by supporting Head-Mounted Display (HMD) technology. It allows users to load molecular data from `.mol` files and view them in a virtual reality environment, making it a powerful tool for education, research, and development in fields like chemistry, biochemistry, and molecular biology.
 
 ## Features
 
